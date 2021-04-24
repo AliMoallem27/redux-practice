@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "xiaomi monitor",
+      "price": 200,
+      "count": 5
+    },
+    {
+      "id": 2,
+      "title": "lg mobile",
+      "price": 122,
+      "count": 22
+    },
+    {
+      "id": 3,
+      "title": "huawei honor band 6",
+      "price": 12,
+      "count": 93
+    },
+    {
+      "id": 4,
+      "title": "xiaomi mi band 6",
+      "price": 123,
+      "count": 2
+    },
+    {
+      "id": 5,
+      "title": "adidas shoe",
+      "price": 456,
+      "count": 49
+    },
+    {
+      "id": 6,
+      "title": "haming chair",
+      "price": 455,
+      "count": 49
+    },
+    {
+      "id": 7,
+      "title": "apple watch",
+      "price": 567,
+      "count": 95
+    },
+    {
+      "id": 8,
+      "title": "apple macbook",
+      "price": 567,
+      "count": 96
+    },
+    {
+      "id": 9,
+      "title": "lenovo legion",
+      "price": 67,
+      "count": 96
+    },
+    {
+      "id": 10,
+      "title": "gtx 1650",
+      "price": 68,
+      "count": 9
+    }
+  ]
+}
